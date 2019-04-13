@@ -524,7 +524,7 @@ To address query schema issue, after installaing the plugin you can edit the iOS
 
 ```xml
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="your.app.id"
+<widget id="com.photoselectpro.app"
         version="0.9.1"
         xmlns="http://www.w3.org/ns/widgets"
         xmlns:cdv="http://cordova.apache.org/ns/1.0">
